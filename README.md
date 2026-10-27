@@ -1,1 +1,13 @@
 # AWS-Cloud-Devops
+
+**Week 1 Linux Hands-on Lab: Your First Project Workspace**
+
+Tasks and commands:
+
+Create the ~/cloud-devops/week1 directory.
+Create a file named notes.txt.
+Add some text to notes.txt.
+Create a directory named scripts.
+Move notes.txt into the scripts/ directory.
+Search for notes.txt using a Linux command.
+Find a running process and identify its PID.
