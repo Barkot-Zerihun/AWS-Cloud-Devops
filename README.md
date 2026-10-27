@@ -4,10 +4,10 @@
 
 Tasks and commands:
 
-Create the ~/cloud-devops/week1 directory.
-Create a file named notes.txt.
-Add some text to notes.txt.
-Create a directory named scripts.
-Move notes.txt into the scripts/ directory.
-Search for notes.txt using a Linux command.
-Find a running process and identify its PID.
+1. Create the ~/cloud-devops/week1 directory.
+2. Create a file named notes.txt.
+3. Add some text to notes.txt.
+4. Create a directory named scripts.
+5. Move notes.txt into the scripts/ directory.
+6. Search for notes.txt using a Linux command.
+7. Find a running process and identify its PID.
